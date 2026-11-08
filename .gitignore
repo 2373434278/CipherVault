@@ -1,0 +1,33 @@
+.gradle/
+.kotlin/
+build/
+*/build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Release signing material - never commit private keys or passphrases
+keystore/
+keystore.properties
+*.jks
+*.keystore
+*.p12
+
+# Build outputs are produced by CI and attached to GitHub Releases
+dist/
+*.apk
+*.aab
+mapping.txt
+*.log
+
+# IDE / OS noise
+.fleet/
+.vscode/
+.zion-mcp/
+.qoder/
+*.swp
+Thumbs.db

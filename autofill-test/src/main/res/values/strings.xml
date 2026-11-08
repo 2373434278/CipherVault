@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Autofill Test</string>
+    <string name="title">Autofill Test</string>
+    <string name="subtitle">Tap the username field to test CipherVault Autofill.</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="hint">This app contains no real credentials.</string>
+</resources>

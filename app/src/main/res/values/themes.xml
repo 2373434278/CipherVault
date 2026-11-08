@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CipherVault" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#080C10</item>
+        <item name="android:statusBarColor">#080C10</item>
+        <item name="android:navigationBarColor">#080C10</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.CipherVault.Autofill" parent="Theme.CipherVault">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
