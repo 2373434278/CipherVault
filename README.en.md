@@ -2,8 +2,8 @@
 
 **English** · [简体中文](README.md)
 
-[![CI](https://github.com/OWNER/CipherVault/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/CipherVault/actions/workflows/ci.yml)
-[![Release](https://github.com/OWNER/CipherVault/actions/workflows/release.yml/badge.svg)](https://github.com/OWNER/CipherVault/actions/workflows/release.yml)
+[![CI](https://github.com/2373434278/CipherVault/actions/workflows/ci.yml/badge.svg)](https://github.com/2373434278/CipherVault/actions/workflows/ci.yml)
+[![Release](https://github.com/2373434278/CipherVault/actions/workflows/release.yml/badge.svg)](https://github.com/2373434278/CipherVault/actions/workflows/release.yml)
 [![License: Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 ![Platform](https://img.shields.io/badge/platform-Android%2026%2B-3ddc84.svg)
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.x-7f52ff.svg)
@@ -34,7 +34,7 @@ The UI follows the **Obsidian Vault** direction: near-black surfaces, teal accen
 
 ## Download
 
-Grab CI-built APKs from [GitHub Releases](https://github.com/OWNER/CipherVault/releases):
+Grab CI-built APKs from [GitHub Releases](https://github.com/2373434278/CipherVault/releases):
 
 | File | Description |
 | --- | --- |
@@ -51,7 +51,7 @@ Grab CI-built APKs from [GitHub Releases](https://github.com/OWNER/CipherVault/r
 Requirements: JDK 17+ (tested with Temurin 21), Android SDK Platform 36, Build Tools 36.0.0.
 
 ```bash
-git clone https://github.com/OWNER/CipherVault.git
+git clone https://github.com/2373434278/CipherVault.git
 cd CipherVault
 
 # Debug

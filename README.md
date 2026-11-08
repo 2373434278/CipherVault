@@ -2,8 +2,8 @@
 
 [English](README.en.md) · **简体中文**
 
-[![CI](https://github.com/OWNER/CipherVault/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/CipherVault/actions/workflows/ci.yml)
-[![Release](https://github.com/OWNER/CipherVault/actions/workflows/release.yml/badge.svg)](https://github.com/OWNER/CipherVault/actions/workflows/release.yml)
+[![CI](https://github.com/2373434278/CipherVault/actions/workflows/ci.yml/badge.svg)](https://github.com/2373434278/CipherVault/actions/workflows/ci.yml)
+[![Release](https://github.com/2373434278/CipherVault/actions/workflows/release.yml/badge.svg)](https://github.com/2373434278/CipherVault/actions/workflows/release.yml)
 [![License: Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 ![Platform](https://img.shields.io/badge/platform-Android%2026%2B-3ddc84.svg)
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.x-7f52ff.svg)
@@ -34,7 +34,7 @@ UI 采用选型方案 **A · Obsidian Vault（黑曜保险库）**：近黑底�
 
 ## 下载
 
-前往 [GitHub Releases](https://github.com/OWNER/CipherVault/releases) 下载由 CI 构建的 APK：
+前往 [GitHub Releases](https://github.com/2373434278/CipherVault/releases) 下载由 CI 构建的 APK：
 
 | 文件 | 说明 |
 | --- | --- |
@@ -51,7 +51,7 @@ UI 采用选型方案 **A · Obsidian Vault（黑曜保险库）**：近黑底�
 环境要求：JDK 17+（实测 Temurin 21）、Android SDK Platform 36、Build Tools 36.0.0。
 
 ```bash
-git clone https://github.com/OWNER/CipherVault.git
+git clone https://github.com/2373434278/CipherVault.git
 cd CipherVault
 
 # Debug
